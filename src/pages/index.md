@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 'Hello World!, I''m Rene Verdugo '
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: My work
+subheading: Designer that work at the intersection between design and development.
 mainpitch:
-  title: Why Kaldi
+  title: HI!
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    I consider myself curious about new topics related to design, and web
+    technologies, I like to work with people with different abilities to mine
+    and exchange knowledge.
+description: The lastest projects where I worked
 intro:
   blurbs:
     - image: /img/coffee.png
